@@ -1,4 +1,4 @@
-Keeper App
+[Keeper App](https://silver094.github.io/Keeper-App/
 
 Keeper App is a web application built using React 18. It allows users to keep track of their notes by adding them and deleting them as needed. The application provides a clean and intuitive user interface for a seamless note-taking experience.
 
@@ -11,7 +11,7 @@ npm (or yarn)
 Installing
 Clone the repository to your local machine..
 
-git clone https://github.com/username/keeper-app.git
+git clone https://github.com/Silver094/Keeper-App.git
 
 cd keeper-app
 npm install
